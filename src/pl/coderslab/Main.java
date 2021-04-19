@@ -6,7 +6,7 @@ public class Main {
         System.out.println("44");
         System.out.println("52");
         System.out.println("67");
-        System.out.println("NOWA ZMIANA");
+        System.out.println("NOWA ZMIANA222");
 
 
     }
