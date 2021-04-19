@@ -3,6 +3,6 @@ package pl.coderslab;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here Zmiana na thirdzie
+	// write your code here Zmiana na thirdzie. Zmiana nr 2
     }
 }
